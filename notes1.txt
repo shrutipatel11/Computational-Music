@@ -1,0 +1,18 @@
+unit = 0.25
+base = 110
+output = national.wav
+SRGG GGGG G$GG RGM$
+G$GG R$RR N_RS$ $$
+S$P$ PP$P PPP$ PPMD P$
+M$MM G$GG RMG$ $$$
+G$GG G$GR PPP$ M$M$
+G$GG R$RR N_RS$ $$$
+SRGG G$GG RGM$ $$$
+GMPP P$MG RMG$ $$$
+G$G$ RRRR N_RS$ $$$
+SPPP P$PP P$PP MDP$
+M$MM G$GG RMG$ $$
+S^NS^$ $$$$
+NDN$ $$$$
+DPD$ $$$$
+SSRR GGRG M$$$ $$

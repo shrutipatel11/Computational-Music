@@ -1,0 +1,7 @@
+unit = 0.25
+base = 110
+output = birthday.wav
+SSR$ S$M$ G$$$
+SSR$ S$M$ G$$$
+SSD$ P$M$ G$R$ $$$
+MMG$ S$R$ S$$
